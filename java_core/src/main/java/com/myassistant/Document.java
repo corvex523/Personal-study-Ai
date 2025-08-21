@@ -7,14 +7,17 @@ public class Document {
         this.title = title;
         this.content = content;
         this.tokens = tokenize(content);
+	int count = 0;
 	for(String token : tokens){
-	    InvertedIndex.addWord(token, this);
+        if (token.isEmpty()) continue;
+	    count++;
+	    InvertedIndex.addWord(token, count, this);
 	}
     }
 
     private String[] tokenize(String text) {
         // Lowercase + split on non-letter characters
-        return text.toLowerCase().replaceAll("[^a-z ]", " ").split("\\s+");
+        return text.toLowerCase().split("[^a-z0-9']+");
     }
 
     public String toString() {

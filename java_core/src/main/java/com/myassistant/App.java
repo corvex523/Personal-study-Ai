@@ -5,7 +5,7 @@ import java.util.List;
 public class App {
     public static void main(String[] args) {
         try {
-            List<Path> files = FileLoader.getAllTextFiles("../../../../../data");
+            List<Path> files = FileLoader.getAllTextFiles("/Users/johnmiller/Personal-study-Ai/java_core/data/");
 
             for (Path file : files) {
                 String content = FileLoader.readFile(file);
@@ -16,8 +16,12 @@ public class App {
 		Document doc = new Document(title, content);
             }
 	    
-	    System.out.println(InvertedIndex.getDocuments("a"));
-
+	    String search = "ab";
+	    System.out.print(search + " ");
+	    System.out.println(InvertedIndex.getDocuments(search));
+	    search = "a";
+            System.out.print(search + " ");
+            System.out.println(InvertedIndex.getDocuments(search));
             
 
         } catch (IOException e) {

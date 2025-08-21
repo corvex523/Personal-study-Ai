@@ -4,28 +4,30 @@ import java.util.List;
 import java.util.Map;
 
 public class InvertedIndex {
-    private static Map<String, List<DocumentFrequency>> index = new HashMap<>();
+    private static Map<String, List<DocumentIndex>> index = new HashMap<>();
 
-    public static void addWord(String word, Document doc) {
-        List<DocumentFrequency> list = index.getOrDefault(word, new ArrayList<>());
+    public static void addWord(String word, Integer integer, Document doc) {
+        List<DocumentIndex> list = index.getOrDefault(word, new ArrayList<>());
 
         boolean found = false;
-        for (DocumentFrequency df : list) {
-            if (df.getDocument().equals(doc)) {
-                df.increment();
+        for (DocumentIndex di : list) {
+            if (di.getDocument().equals(doc)) {
+                di.addIndex(integer);
                 found = true;
                 break;
             }
         }
 
         if (!found) {
-            list.add(new DocumentFrequency(doc));
+	        DocumentIndex di = new DocumentIndex(doc);
+	        di.addIndex(integer);
+            list.add(di);
         }
-
+	
         index.put(word, list);
     }
 
-    public static List<DocumentFrequency> getDocuments(String search) {
+    public static List<DocumentIndex> getDocuments(String search) {
         return index.getOrDefault(search, new ArrayList<>());
     }
 }
