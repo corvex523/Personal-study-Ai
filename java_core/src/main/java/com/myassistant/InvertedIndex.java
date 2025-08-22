@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class InvertedIndex {
-    private static Map<String, List<DocumentIndex>> index = new HashMap<>();
+    private static Map<String, ArrayList<DocumentIndex>> index = new HashMap<>();
 
     public static void addWord(String word, Integer integer, Document doc) {
-        List<DocumentIndex> list = index.getOrDefault(word, new ArrayList<>());
+        ArrayList<DocumentIndex> list = index.getOrDefault(word, new ArrayList<>());
 
         boolean found = false;
         for (DocumentIndex di : list) {
@@ -27,8 +26,39 @@ public class InvertedIndex {
         index.put(word, list);
     }
 
-    public static List<DocumentIndex> getDocuments(String search) {
-        return index.getOrDefault(search, new ArrayList<>());
+    public static ArrayList<DocumentIndex> search(String search) {
+	String[] terms = search.toLowerCase().split("[^a-z0-9']+");
+	ArrayList<DocumentIndex> firstList = index.getOrDefault(terms[0], new ArrayList<>());
+	ArrayList<DocumentIndex> out = new ArrayList<>();
+	for(DocumentIndex di : firstList){
+	    Document doc = di.getDocument();
+	    boolean docAdded = false;
+	    ArrayList<Integer> positions = di.getIndex();
+	    for(int pos : positions){
+		boolean connected = true;
+		int currentPos = pos;
+		for(int i = 1; i < terms.length; i++){
+		    ArrayList<DocumentIndex> locations = index.getOrDefault(terms[i], new ArrayList<>());
+		    DocumentIndex next = locations.stream().filter(p -> p.getDocument().equals(doc)).findFirst().orElse(null);
+		    if(next == null || !next.getIndex().contains(currentPos+1)){
+			connected = false;
+	            }
+		    currentPos++;
+		}
+		if(connected){
+		    if(!docAdded){
+			DocumentIndex phraseIndex = new DocumentIndex(doc, currentPos);
+			out.add(phraseIndex);
+			docAdded = true;
+		    } else {
+			DocumentIndex phraseIndex = out.get(out.size()-1);
+			phraseIndex.addIndex(currentPos);
+			out.set(out.size()-1, phraseIndex);
+		    }
+		}
+	    }
+	}
+        return out;
     }
 }
 

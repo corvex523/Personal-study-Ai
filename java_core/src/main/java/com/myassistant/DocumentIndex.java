@@ -9,6 +9,12 @@ public class DocumentIndex {
         this.index = new ArrayList<>();
     }
 
+    public DocumentIndex(Document document, int index){
+	this.document = document;
+	this.index = new ArrayList<>();
+	this.index.add(index);
+    }
+
     public void addIndex(Integer integer) {
         index.add(integer);
     }
