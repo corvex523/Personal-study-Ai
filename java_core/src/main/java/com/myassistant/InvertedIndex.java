@@ -1,9 +1,8 @@
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
 public class InvertedIndex {
-    private static Map<String, ArrayList<DocumentIndex>> index = new HashMap<>();
+    private static HashMap<String, ArrayList<DocumentIndex>> index = new HashMap<>();
 
     public static void addWord(String word, Integer integer, Document doc) {
         ArrayList<DocumentIndex> list = index.getOrDefault(word, new ArrayList<>());
@@ -29,6 +28,9 @@ public class InvertedIndex {
     public static ArrayList<DocumentIndex> search(String search) {
 	String[] terms = search.toLowerCase().split("[^a-z0-9']+");
 	ArrayList<DocumentIndex> firstList = index.getOrDefault(terms[0], new ArrayList<>());
+	if(terms.length < 2){
+	    return firstList;
+	}
 	ArrayList<DocumentIndex> out = new ArrayList<>();
 	for(DocumentIndex di : firstList){
 	    Document doc = di.getDocument();
