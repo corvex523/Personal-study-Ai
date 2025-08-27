@@ -30,6 +30,14 @@ public class App {
 		if(doc.getTitle().equals("APBiologyChemistryOfLife"))
 		    System.out.println(doc.summarize());
 
+//	    for (Document doc : docs) {
+//    if (doc.getTitle().equals("easyfile")) {
+//        System.out.println("Found easyfile!");
+//        String summary = doc.summarize();
+//        System.out.println(summary);
+//    }
+//}
+
         } catch (IOException e) {
             e.printStackTrace();
         }

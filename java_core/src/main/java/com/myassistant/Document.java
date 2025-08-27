@@ -7,20 +7,39 @@ public class Document {
     private ArrayList<Sentence> sentences;
     private HashMap<String, Integer> wordCount;
     private static int totalDocuments = 0;
+    private HashMap<String, Double> tfidf;
+    private static final HashSet<String> stopWords = new HashSet<>(Arrays.asList(
+    "a", "an", "the", "and", "or", "but", "if", "while", "as", "because", "since", "so", "although", "though",
+    "on", "in", "at", "by", "for", "with", "about", "against", "between", "into", "through", "during", "before",
+    "after", "above", "below", "to", "from", "up", "down", "out", "off", "over", "under", "again", "further",
+    "then", "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each", "few", "more",
+    "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very",
+    "can", "will", "just", "don", "should", "now", "is", "are", "was", "were", "be", "been", "being", "have",
+    "has", "had", "do", "does", "did", "am", "may", "might", "must", "shall", "would", "could", "should",
+    "i", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them", "my", "your", "his", "her",
+    "its", "our", "their", "mine", "yours", "hers", "ours", "theirs"));
 
     public Document(String title, String content) {
         this.title = title;
         this.content = content;
-	this.wordCount = new HashMap<String, Integer>();
-        this.tokens = tokenize(content);
+	wordCount = new HashMap<String, Integer>();
+        tokens = tokenize(content);
 	int count = 0;
 	for(String token : tokens){
 	    if (token.isEmpty()) continue;
 	    count++;
 	    InvertedIndex.addWord(token, count, this);
 	}
-	this.sentences = splitSentences(content);
+	sentences = splitSentences(content);
+	tfidf = new HashMap<>();
 	totalDocuments++;
+	for (String token : tokens) {
+            int timesInDoc = wordCount.get(token);
+            int docsWithTerm = InvertedIndex.search(token).size();
+            double tf = timesInDoc / (double) tokens.length;
+            double idf = (double) Math.log(1.0 + totalDocuments / (1.0 + docsWithTerm));
+            tfidf.put(token, tf * idf);
+        }
     }
 
     private String[] tokenize(String text) {
@@ -34,7 +53,7 @@ public class Document {
 
     private ArrayList<Sentence> splitSentences(String text) {
 	ArrayList<Sentence> result = new ArrayList<>();
-	String[] parts = text.split("(?<=[.?!]+)[\n\s\"]+(?=[A-Z])");
+	String[] parts = text.split("(?<=[.?!\n]+)[\n\s](?=[A-Z])|[\n](?=[A-Z])");
 	int sentenceIndex = 0;
 	for (int i = 0; i < parts.length; i++) {
 	    String part = parts[i].trim();
@@ -51,7 +70,7 @@ public class Document {
 
     private boolean isAbbreviation(String str) {
 	if(str.length() == 1 && Character.isUpperCase(str.charAt(0))) return true;
-	String[] abbreviations = {"Mr", "Mrs", "Ms", "Dr", "Prof", "Sr", "Jr", "St", "Lt", "Col", "Gen", "Rev", "Capt", "Maj", "Sgt", "U", "S", "i", "e", "g", "etc", "a", "m", "p",  "Ph"};
+	String[] abbreviations = {"Mr", "Mrs", "Ms", "Dr", "Prof", "Sr", "Jr", "St", "Lt", "Col", "Gen", "Rev", "Capt", "vs", "Maj", "Sgt", "Ex", "U", "S", "i", "e", "g", "etc", "a", "m", "p",  "Ph"};
 	for(String abbreviation : abbreviations) {
 	    if(str.equals(abbreviation)) return true;
 	}
@@ -61,12 +80,10 @@ public class Document {
     public String summarize() {
         for (Sentence sentence : sentences) {
             ArrayList<Double> tfidfVector = new ArrayList<>();
-            for (String str : sentence.getText().split("[^a-z0-9']+")) {
-                int timesInDoc = wordCount.getOrDefault(str, 0);
-                int docsWithTerm = InvertedIndex.search(str).size();
-                double tf = timesInDoc / (double) tokens.length;
-                double idf = Math.log(totalDocuments / (1.0 + docsWithTerm));
-                tfidfVector.add(tf * idf);
+            for (String str : sentence.getText().toLowerCase().split("[^a-z0-9']+")) {
+		if(!stopWords.contains(str
+))
+                    tfidfVector.add(tfidf.get(str));
             }
             sentence.setTfidfVector(tfidfVector);
         }
@@ -77,7 +94,8 @@ public class Document {
             for (Double tfidf : sentence.getTfidfVector()) {
                 tempTfidf += tfidf;
             }
-            tempTfidf /= sentence.getTfidfVector().size();
+            tempTfidf /= (sentence.getTfidfVector().size());
+	    tempTfidf *= sentence.getTfidfVector().size();
             sentenceTfidf.put(sentence, tempTfidf);
         }
 
@@ -99,29 +117,36 @@ public class Document {
             if (!similar) filtered.add(s);
         }
 
-        while (filtered.size() > sentences.size()/10) {
+        while (filtered.size() > sentences.size()/20) {
             filtered.remove(filtered.size()-1);
         }
 
-        return filtered.toString();
+	StringBuilder out = new StringBuilder();
+	for (Sentence s : filtered) {
+            out.append(s.toString()).append("\n\n");
+    	}
+
+        return out.toString();
     }
 
     private double cosineSimilarity(Sentence a, Sentence b) {
-	HashMap<String, Double> va = a.getTfidfMap();   // word -> weight
+	HashMap<String, Double> va = a.getTfidfMap();
 	HashMap<String, Double> vb = b.getTfidfMap();
 	Set<String> vocab = new LinkedHashSet<>();
 	vocab.addAll(va.keySet());
 	vocab.addAll(vb.keySet());
 
-	double dot = 0, na = 0, nb = 0;
+	Double dot = 0.0, na = 0.0, nb = 0.0;
 	for (String w : vocab) {
-	    double x = va.getOrDefault(w, 0.0);
-	    double y = vb.getOrDefault(w, 0.0);
+	    Double x = va.getOrDefault(w, 0.0);
+	    Double y = vb.getOrDefault(w, 0.0);
 	    dot += x * y;
 	    na  += x * x;
 	    nb  += y * y;
 	}
-	return (na == 0 || nb == 0) ? 0.0 : dot / (Math.sqrt(na) * Math.sqrt(nb));
+	double result = (na == 0 || nb == 0) ? 0.0 : dot / (Math.sqrt(na) * Math.sqrt(nb));
+//	System.out.println(result);	
+	return result;
     }
 
 
