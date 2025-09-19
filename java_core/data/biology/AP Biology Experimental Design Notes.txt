@@ -1,0 +1,135 @@
+Experimental Design
+
+AP Biology
+
+Hypotheses
+Null hypothesis
+Hypothesis that there is no significant effect, difference, or trend (the opposite of the alternative hypothesis)
+
+Alternative hypothesis
+Hypothesis that there is a significant effect, difference, or trend (the opposite of the null hypothesis)
+Does light color affect plant growth?
+Null hypothesis - Light color does not affect plant growth. 
+Alternative hypothesis - Light color does affect plant growth. 
+
+Global average for this question: 1.43
+
+Variables
+Independent
+The actual thing being change and tested during the expeirment
+
+Dependent
+The response to the independent variable; what will be measured to determine the effect of the independent variable 
+
+
+Does light color affect plant growth?
+
+Independent variable - Light color 
+
+Dependent variable - Plant growth
+
+Global average for this question: 1.43
+
+Variables
+Control
+Held constant through the experiment so they do not affect the outcome 
+
+Only light color is different
+Type of plant, amount of water, type of soil, temperature, light intensity, etc. are the same
+
+Groups
+Experimental
+The group that receives the independent variable in order to test it
+
+Control
+The group that does not receive the independent variable in order to be able to compare the results of the experimental group 
+Positive  - expect a result
+Negative - expect no result
+
+Global average: 1.54
+
+Graphing
+When graphing, remember DRY MIX
+	Dependent			Manipulated
+	Responding			Independent
+	Y-axis				X-axis
+Does light color affect plant growth?
+
+Types of Graphs
+Scatterplots - 
+Qualitative data but there was not a manipulated variable or multiple trials
+Typically include a trend line
+Line - 
+To show change in the dependent variable over time or some continuum
+
+
+Types of Graphs
+Histogram -  
+Frequency distribution
+Bars touch
+X axis represents a range
+
+Bar - 
+Frequency distribution
+Bars do not touch
+X axis represents categories
+
+Types of Graphs 
+Box & whisker plot - 
+Compare the variability of 2+ groups of data
+Pie - 
+Compare categories
+
+This wording is a little different from what you learned in Statistics. Use this wording for biology.
+Interpreting Results
+Error bars
+Represent +/- 2SEM
+If error bars overlap → not a significant difference between the means
+If error bars do not overlap → significant difference between the means 
+
+Global average 1.57
+
+Standard Deviation and Standard Error of the Mean
+
+Interpreting Results
+Chi square
+X2 > critical value → significance difference between observed and expected → reject null hypothesis
+X2 < critical value → not a significant difference between observed and expected → fail to reject null hypothesis
+In pea plants, tall (T) is dominant to short (t). A crop of pea plants produced 64 tall plants and 36 short plants. Does this fit the expected ratio?
+Phenotype
+o
+e
+(o-e)
+(o-e)2
+(o-e)2/e
+Tall
+64
+100 x 0.75 = 75
+64 - 75 = -11
+(-11)2 = 121
+121/75 = 1.61
+Short
+36
+100 x 0.25 =  25
+36 - 25 = 11
+(11)2 = 121
+121/25 = 4.84
+100 total
+X2 = 1.61 + 4.84 
+     = 6.45
+X2 > critical value (6.45 > 3.84) → rejejct null hypothesis; does not fit expected ratio
+
+Chi Squared
+
+Writing a Conclusion
+Based on the data from an experiment, write a conclusion using the CER format. 
+Claim  - Write a statement that responds to the question that was investigated.
+Evidence  - Provide data from your evidence to support your claim. 
+Reasoning  - Explain how your data supports your claim. 
+
+CER Example
+
+CER Example
+Claim - Her dad is an alien.
+Evidence - He speaks a weird language, has a spaceship, is from a place with a weird name, drinks green stuff, and looks funny.
+Reasoning - The little girl’s dad is an alien. Aliens drink green stuff and they speak a weird language. They have spaceships to travel in. Aliens also look funny. They come from places that have weird names. They also walk funny. The little girl’s dad drinks green stuff, he has a space ship of his own and he walks weird. He also looks weird, like an alien. Her dad speaks a weird language and finally, he is from a place with a weird name. Therefore, her dad is an alien.

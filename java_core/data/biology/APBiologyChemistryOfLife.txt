@@ -1,0 +1,358 @@
+AP Biology
+Chemistry of Life
+
+Properties of Water
+
+Hydrogen Bonds and Water
+Water’s unique properties are caused by its polarity.
+One water molecule is made by polar covalent bonds.
+BECAUSE of this, it is polar.
+BECAUSE it is polar, it can then make HYDROGEN bonds with other water molecules (or similarly polar molecules). 
+Reminder - in a covalent bond, electrons are shared
+	nonpolar covalent - shared equally
+	Polar covalent - not shared equally
+
+Hydrogen Bonds
+A weak attraction between a highly electronegative atom and a hydrogen atom taking part in a separate polar covalent bond. 
+Basically between the positive and negative ends of two or more polar molecules. 
+Hydrogen bonds do not form molecules and are not technically chemical bonds.
+Hydrogen bonds can stabilize the structures of large biological molecules. 
+Hydrogen bonds give water its unique properties that help sustain life on Earth. 
+Partial + charge
+Partial - charge
+
+Properties of Water
+Hydrogen bonds allow water to have cohesion (this is when water molecules are hydrogen bonded to other water molecules). Cohesion is when molecules resist separation from one another. 
+Provides surface tension
+Helps draw water up from roots of plants
+
+Properties of Water Cont. 
+Adhesion- When two unlike molecules stick together.
+Ex- Water sticking to a car window during a rainstorm. 
+Capillary action- Caused by both adhesion and cohesion.
+Water is attracted to sides of tube.
+Water is attracted to itself.
+Both of these interactions allow water to travel up small tubes.
+Important to plants! 
+
+Reducing surface tension - ex. soap
+Soap molecules have a hydrophobic end and a hydrophilic end
+Water molecules are attracted to the hydrophilic end of the soap molecules. 
+This attraction weakens the attraction between the water molecules, reducing the tension
+
+
+Water and Temperature
+Compared to other molecules, water absorbs more heat before it becomes measurably hotter. (Because hydrogen bonds keep the molecules from moving around more than they would normally)
+Temperature- How we measure the energy of molecular motion
+Molecules move faster as they absorb more heat.
+Molecules move slower as they lose heat. 
+This is why it takes more heat to raise the temperature of water compared to other liquids.
+Takes longer to evaporate - high heat of vaporization
+Takes longer to heat up - high specific heat
+
+Water and Temperature
+Evaporative cooling - surface temperature of water decreases during evaporation
+Evaporation is a conversion of a liquid to a gas by heat energy.
+Cools body temperature- sweat.
+Temperature regulation and homeostasis.
+Ice is less dense than liquid water because hydrogen bonds form a lattice during freezing. 
+Water molecules do not “jiggle” enough to overcome hydrogen bonds.
+Ice will float on liquid water.
+Sheets of ice that form on bodies of water help insulate the water underneath- protecting aquatic organisms from freezing temperatures. 
+
+Water as a Solvent
+ Because water is polar and able to make hydrogen bonds, water can easily dissolve other substances. 
+Substances able to dissolve in water must be hydrophilic- meaning “water loving”. 
+Ex. Ionic solids (polar). 
+Collectively, hydrogen bonds in water can overcome ionic bonds. 
+Ex. Non-Ionic solids, like sugar. Water is able to make hydrogen bonds with sugar molecules. 
+Substances that cannot dissolve in water are called hydrophobic- meaning “water fearing”. 
+Ex. Non-Polar substances, like oil. 
+These interactions help with transporting solutes in the blood, and how cell membranes are organized. 
+
+
+Introduction to Biomolecules
+
+Organic Molecules
+Living things are mainly composed of O, H, and C. 
+Molecules that contain carbon are said to be organic.
+This is a holdover from a long time ago when people thought that all carbon based molecules came from life forms. ( We know that isn’t true now, but we still use the term today). 
+
+
+Why Carbon?
+Carbon is important to life because of its versatile bonding behavior.
+Each carbon atom can form up to four covalent bonds with other atoms. 
+These molecules can be polar or nonpolar. 
+Carbon molecules can form carbon rings or chains.
+Carbon atoms can be assembled and remodeled into a variety of organic compounds. 
+
+Different Molecule Models you might see
+
+Macromolecule Structure
+Monomers- Molecules used as repeatable subunits to build larger molecules. 
+Polymers- Larger molecules that are built from chains of monomers.
+
+
+Dehydration Synthesis
+This is how cells build a large molecules from smaller ones. 
+
+An enzyme removes a hydroxyl group from one molecules and a hydrogen atom from another. A covalent bond forms between the molecules, and water also forms. 
+
+Dehydration Synthesis
+Macromolecule
+Monomer(s)
+Bond that connects the monomers
+Carbohydrates
+monosaccharides
+glycosidic
+Lipids
+Fatty acids & glycerol
+ester
+Protein
+Amino acids
+peptide
+Nucleic Acids
+nucleotides
+phosphodiester
+The type of covalent bond formed between monomers depends on the monomer/macromolecule.
+
+Hydrolysis
+This is how cells split a large molecules into smaller one. 
+
+An enzyme attaches a hydroxyl group and a hydrogen atom (both from water) at the cleavage site. 
+
+Functional Groups
+Functional groups- clusters of atoms on a molecule that give the molecule polarity or acidity. 
+Helps determine how that molecule will behave.
+All the molecules we’ll talk about have at least 1 functional group. 
+Be able to recognize these
+
+
+Carbohydrates
+
+Carbohydrates
+Consists of carbon, hydrogen, and oxygen in a 1:2:1 ratio (ex. Glucose). 
+Carbohydrates can be used for energy, structure, and for storing/transporting energy. 
+
+Types of Carbohydrates
+Monosaccharides- (Monomers), also called simple sugars. 
+Ex. Glucose, Fructose, Galactose
+Mostly used as an energy source or structure. 
+Very soluble in water.
+May be in linear or ring form
+Both of these sugars have the same formulas but a DIFFERENT ARRANGEMENT OF ATOMS → they have different chemical properties
+
+Types of Carbohydrates
+Disaccharides- made of two monosaccharides joined together
+Also called oligosaccharides (short polymers)
+Polysaccharides- also called complex carbs since they contain many monomers (take longer to break down for energy) 
+Can be branched or in straight chains. 
+Ex. cellulose, chitin, starch, and glycogen
+
+Because of dehydration synthesis, di/polysaccharides do not fit the 1:2:1 ratio of CHO
+Glycosidic bond
+
+
+Lipids
+
+Lipids
+Function as long term energy storage and the structural foundation of cell membranes. 
+Fatty, oily, or waxy
+Insoluble in water (nonpolar, hydrophobic)
+Fatty Acids- Simple organic compounds with a carboxyl group joined to a backbone of 4 to 36 carbon atoms.
+Hydrocarbon tails- hydrophobic
+Carboxyl group “head” - Hydrophilic
+
+
+Saturated Fatty Acids
+Single bonds within their hydrocarbon tails. 
+“Fully saturated” with hydrogen atoms. 
+Tails are flexible.
+Can “stack up” at room temperature, forming a soft solid (like butter). 
+Most animal fats are saturated.
+
+Unsaturated Fatty Acids
+Contains 1 or more double bonds in the carbon chain. 
+This makes the hydrocarbon tails slightly bent.
+Less flexible.
+Since they cannot stack together, unsaturated fatty acids will be liquid at room temperature (like most vegetable oils). 
+
+Saturated vs. Unsaturated Fatty Acids
+Single bonds = saturated, full of H, sold at room temperature
+Double bonds = unsaturated, less H, liquid at room temp.
+
+Fats
+The carboxyl group of a fatty acid easily forms bonds with other molecules.
+Fats are lipids with one, two, or three fatty acids bonded to glycerol, which is an alcohol. 
+A fatty acid attaches to a glycerol via the carboxyl group, which then loses its hydrophilic properties. 
+Ex. triglycerides and phospholipids
+3 fatty acids & a glycerol
+2 fatty acids & a phosphate head
+
+Waxes
+Wax- Complex molecules with a varied mixture of lipids with long fatty acid tails bonded to long chain alcohols or carbon rings. 
+Molecules pack tightly, so wax is firm and water resistant. 
+Leaves have a layer of wax that restricts water loss and protects against pests and parasites. 
+Waxes help protect and lubricate our skin and hair.
+Makes bird feathers waterproof.
+Bees make honeycombs from wax as a safe place to raise larvae and store honey. 
+
+Steroids
+Steroids- Lipids with a rigid backbone of four carbon rings and no fatty acid tails.
+Cholesterol- The most common steroid in animal cell membranes (helps maintain cell structure).
+Forms bile salts that help us digest fats.
+Forms vitamin D which is needed by bones and teeth.
+Steroid hormones like estrogen and testosterone govern reproduction and reproductive system development.
+
+
+Proteins
+
+Proteins
+All cellular processes involve proteins.
+Proteins are the most diverse molecule.
+Used for…
+Structure
+Nutrition
+Enzymes
+Transport
+Communication
+Cellular Defense
+
+Amino Acids
+20 possible
+All with an amine group, carboxyl group and variable group (R group)
+R group gives the amino acid its properties - hydrophobic, acidic, etc.
+
+Thousands of different proteins can be made by arranging amino acids in different orders and into chains of different lengths. 
+
+
+
+The chart to the left shows all the different types of amino acids based on their R groups and what chemical properties the R group will give the amino acid. 
+
+All proteins have CHON since these elements are found in all amino acids. Additional elements may be present depending on an amino acid’s  group.
+
+
+HYDROPHOBIC/NONPOLAR
+HYDROPHILIC/POLAR
+BASIC
+ACIDIC
+
+Amino Acids → Proteins
+Polypeptides- A linear chain of amino acids.
+The protein you eat is broken down into amino acids by hydrolysis, and those amino acids are recombined by dehydration synthesis into the proteins your cells need.
+Peptide bonds - between the amine group of one amino acids and the carboxyl group of another
+
+
+Protein Structure - Primary
+Protein structure is important because the structure of the protein determines its function (how it will work/behave).
+
+Primary Structure- The unique amino acid sequence of a protein. (Polypeptide chain). Amino acids are held together by polypeptide bonds. 
+
+
+
+Protein Structure - Secondary
+Secondary Structure- The polypeptide chain folds and forms hydrogen bonds between the amino acids; results from interactions between the repeating portions of amino acids
+Hydrogen bonds can cause the polypeptide to make two kinds of shapes.
+Beta Sheets- Flat Sheets 
+Alpha Helices- Coils
+Remember talking about hydrogen bonds when we talked about water? Nitrogen, just like oxygen, hogs electrons, resulting in a partially negative charge. This causes the hydrogen nearby to have a partially positive charge.
+
+Protein Structure - Tertiary
+Tertiary Structure- Depends on how the R-Groups interact with each other
+Hydrogen bonds
+Hydrophobic Interactions 
+Disulfide Bridges 
+Ionic Bonds
+
+Protein Structure - Quaternary
+Quaternary Structure- Some proteins consist of two or more folded polypeptide chains in close association or covalently bonded together. 
+R groups are interacting here, too.
+Ex- Hemoglobin is made of four separate polypeptides, called subunits. 
+Globin- the protein that makes up hemoglobin
+Heme- The non-protein parts that contain iron. 
+
+
+
+Denaturation
+Proteins can only function as long as they maintain their correct three-dimensional shape.
+Changes in protein shape can have drastic health consequences.
+
+Denature- When a protein loses its shape and no longer functions correctly. 
+Heat, pH, salts, and detergents can disrupt hydrogen bonds that maintains a protein's shape. 
+
+
+Enzymes
+Speed up chemical reactions
+Lower activation energy
+Not used up in chemical reaction
+Substrate specific
+Several factors can affect the rate of reaction
+Enzyme & substrate concentrations
+Environmental factors
+Activators and inhibitors 
+
+
+Impact of Enzyme & Substrate Concentration on Reaction Rate
+As long as there is plenty of substrate, adding more enzyme to the reaction will increase the rate of reaction. Once most of the substrate has reacted, adding more enzyme will have no effect. 
+As long as there is available enzyme, adding more substrate will increase the rate of reaction. Once all the enymes are saturated, adding more substrate will have no effect.
+
+Environmental Impact on Enzyme Activity -Temperature
+Above optimal - activity starts to decrease until the enzymes denatures
+Optimal - max rate
+Below optimal - molecules move slower (fewer collisions between substrate and enzyme) until enzyme is inactive or denatured
+
+Environmental Impact on Enzyme Activity  - pH
+Above optimal - rate decreases; lower [H+] interferes with enzyme shape
+Optimal - max rate
+Below optimal - rate decreases; higher [H+] interferes with enzyme shape
+
+Control of Enzymatic Reactions - Activators & Inhibitors
+Activators stabilize the active form
+Coenzymes - organic (ex. CoA)
+Cofactor - inorganic (ex. vitamins)
+Inhibitors stabilize the inactive form
+Competitive - attach to the active site so the substrate cannot
+noncompetitive/allosteric - attach to the enzyme somewhere other than than the active site, causing the active site to change shape
+Feedback inhibition - a product can act as an inhibitor so the reaction does not continue unnecessarily
+
+
+Nucleic Acids
+
+Nucleic Acids
+DNA is a polymer made of repeating units of nucleotides (monomer). Nucleotides have three parts: 
+Phosphate groups (negatively charged)
+5-carbon deoxyribose sugars 
+Nitrogen bases (four varieties: A, T, C, and G)
+
+DNA - Carbons
+Deoxyribose has 5 Carbon atoms, which are numbered clockwise. 
+The 1’ (one prime) carbon holds the nitrogen base.
+The 3’ (three prime) carbon has a hydroxide that will bond with the P-group of another nucleotide. 
+The 5’ (five prime) carbon holds onto the phosphate group.
+
+DNA - Directionality
+DNA is antiparallel because complementary strands run in opposite directions (5’ → 3’ and 3’ → 5’).
+Just like traffic on our roads! 
+Important because the 3’ and 5’ directions is how DNA is “read” by enzymes. 
+HINT: The O on the deoxyribose sugar “points” to the 5’ end. 
+
+DNA - Bonds
+Hydrogen bonds (weak attractions) hold bases together. 
+T = A (2 bonds)
+G ≡ C (3 bonds)
+Covalent phosphodiester bonds (strong bonds) hold nucleotides together at the backbone. 
+
+Base Pairing Rules
+Pyrimidines (T, C, with single rings) always bond with purines (A, G, with double rings) in nucleic acids. 
+
+
+
+
+
+CUT the Py → C, U, T are Pyrimidines 
+PUR As Gold → A and G are Purines
+
+DNA vs. RNA
+ribose
+deoxyribose
+

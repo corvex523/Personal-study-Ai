@@ -1,0 +1,78 @@
+accipio (adc-), -ere, -cepi, -ceptum to take without effort, receive, get, accept, hear verb
+adhuc until now, heretofore, as yet, still, to this point, to this place adverb
+amicitia, -ae (f.) friendship; alliance, association; friendly relations noun
+amicus, -a, -um loving, friendly, kind, favorable adjective
+amicus, -i (m.) loved one, loving one, friend noun
+an or, or whether conjunction
+ancilla, -ae (f.) enslaved woman noun
+angustus, -a, -um narrow, steep, close, confined; scanty, poor; narrowminded, petty adjective
+appropinquo (adp-), -are, (with dat. or ad + acc.) to approach; come near to, draw near (space/time) verb
+ardeo, -ere, arsi, arsum to be on fire, burn, blaze, be burned, glow verb
+arma, -orum (n. pl.) implements, outfit, instruments, tools; implements of war, arms, weapons noun
+athleta, -ae (m.) wrestler, boxer, athlete, one who is in public games; expert noun
+caput, -itis (n.) head noun
+cena, -ae (f.) dinner, principal Roman meal (evening); course, meal noun
+ceno, -are, -avi, -atum to dine (on), eat, have dinner with verb
+claudo, -ere, -si, -sum to shut, close, shut up verb
+consilium, -i (n.) council, body of counsellors; a plan, purpose, intention noun
+credo, -ere, -didi, -ditum (with dat.) to believe, trust; to confide in, have confidence in verb
+curro, -ere, cucurri, cursum to run, move quickly, travel quickly verb
+deinde or dein then, next, thereafter, afterward adverb
+eo, ire, ivi or ii, itum to go, walk, ride, sail, fly, move, pass verb
+finis, -is (m. or f.) that which divides, boundary, limit, border, end noun
+fortuna, -ae (f.) chance, luck, fate, fortune noun
+fugio, -ere, fugi, fugitum to flee, fly, take flight, run away, make off verb
+habito, -are, -avi, -atum to inhabit, dwell; to live, stay verb
+haurio, -ire, hausi, haustum to draw up, draw out, draw; to drain, drink up, spill, shed verb
+hostis, -is (m.) stranger, foreigner; enemy, foe, public enemy noun
+iaceo, -ere, -cui, -citum to lie down, be prostrate, lie at rest verb
+ignis, -is (m.) fire noun
+immortalis (inm-), -e immortal, undying adjective
+imperium, -i (n.) command, order; supreme power, sway, dominion, empire noun
+impono (inp-), -ere, -posui, -positum to place upon, set on, impose, establish, introduce, set, place verb
+inquam (defective inquis, inquit, inquimus, inquiunt) verb to say verb
+intra (with acc.) (of space) within, inside, on the inside; (of time) during; fewer than preposition
+ita in this manner, in such a way, so, thus, accordingly, as has been said adverb
+levis, -e light, not heavy adjective
+litus, -oris (n.) seashore, seaside, beach noun
+longus, -a, -um long, extended adjective
+magis more, in a higher degree, more completely adverb
+mare, -is (n.) sea noun
+mater, -tris (f.) mother noun
+medius, -a, -um in the middle, in the midst, mid, mean, middle (of) adjective
+metus, -us (m.) fear, dread, apprehension, anxiety noun
+misceo, -ere, miscui, mixtum to mix, mingle, intermingle, blend verb
+modo only, merely, solely, simply, but, no more than adverb
+mons, montis (m.) mountain, mount, range of mountains noun
+mors, -tis (f.) death noun
+ni not; if not, unless adverb
+nisi if not, unless, except conjunction
+novus, -a, -um new, not old, young, fresh, recent adjective
+oculus, -i (m.) eye noun
+periculum or periclum, -i (n.) trial, experiment, attempt, test; risk, hazard, danger, peril noun
+poeta, -ae (m.) poet noun
+populus, -i (m.) people, nation noun
+postea afterward adverb
+primus, -a, -um the first, first adjective
+propter (with acc.) near, close to; because of, on account of preposition
+puto, -are, -avi, -atum to believe, think, suppose; clean, trim verb
+quia because, since conjunction
+quidam, quaedam, quoddam (or quiddam) certain, certain one, somebody, one, something pronoun
+reddo, -ere, -didi, -ditum to give back, return, restore; give up, hand over, deliver verb
+scio, -ire, -ivi, -itum to know, understand, perceive, have knowledge of, be skilled in verb
+semper ever, always, at all times, continually, perpetually, forever adverb
+servus, -i (m.) enslaved man noun
+sono, -are, -ui, -itum to make a noise, sound, resound verb
+superus, -a, -um that is above, upper, higher; (pl.) the gods adjective
+surgo, -ere, surrexi, surrectum to rise, arise, get up, stand up verb
+tam in such a degree, as much, so, so much adverb
+tantus, -a, -um of such size, of such a measure, so great, such, as great (correl. with quantus) adjective
+tempus, -oris (n.) portion of time, time, period, season, interval noun
+teneo, -ere, tenui, tentum to hold, keep, have, grasp, hold fast verb
+tremor, -oris (m.) shaking, quaking, quivering, trembling, tremor noun
+ubi in which place, in what place, where; when, whenever, as soon as, as adverb
+ullus, -a, -um any, any one adjective
+uterque, utraque, utrumque each, either, each one, one and the other, one as well as the other, both (of two regarded severally) pronoun
+valeo, -ere, -ui, -itum to be strong, be vigorous, have strength, be able verb
+vinco, -ere, vici, victum to conquer, defeat, be victorious, win, succeed verb
+vivo, -ere, vixi, victum to live, be alive, have life verb

@@ -1,21 +1,17 @@
-Vocabulary Part of Speech Definition
 a, ab, abs preposition (with abl.) from, away from, out of, by
 abeo,-ire,-ii,-itum verb to go from, go away, go off, go forth, go, depart
 acer, acris, acre adjective sharp, bitter, pointed, piercing, shrill; keen; severe
 ad preposition (with acc.) to, toward
-adversus,-a,-um adjective turned to, turned against, opposite, before, in front of;
-unfavorable
+adversus,-a,-um adjective turned to, turned against, opposite, before, in front of; unfavorable
 adversus, adversum preposition/adverb (with acc.) opposite to, against; toward, against, before
 agricola,-ae(m.) noun farmer, countryman, peasant
-alius,-a,-ud adjective another, other, different; one...the other (alius...alius), some...
-others (alii...alii)
+alius,-a,-ud adjective another, other, different; one...the other (alius...alius), some...others (alii...alii)
 animus,-i(m.) noun soul, intelligence, reason, intellect, mind; courage
 Appia,-ae(f.) noun (proper) a Roman female name (nomen – name of a Roman gens)
 apud preposition (with acc.) with, among, at, by, near, at the house of
 atque, ac conjunction and; than (correl. with alius); as (correl. with idem)
 audio,-ire,-ivi(or-ii),-itum verb to hear, listen (to)
-aut conjunction or (introducing an antithesis to what precedes); either…or (aut…
-aut)
+aut conjunction or (introducing an antithesis to what precedes); either…or (aut…aut)
 Caelius,-i(m.) noun (proper) a Roman male name (nomen – name of a Roman gens)
 canis,-is(m.orf.) noun dog
 caveo,-ere,cavi,cautum verb to beware, avoid, be on guard; guarantee; take care of, decree
@@ -27,8 +23,7 @@ cum preposition (with abl.) with, together, along with
 dea,-ae(f.) noun goddess
 Decius,-i(m.) noun (proper) a Roman male name (nomen – name of a Roman gens)
 deus,-i(m.) noun god, deity
-dico,-ere,dixi,dictum verb to say, speak, utter, tell, mention, relate, affirm, declare, state,
-assert
+dico,-ere,dixi,dictum verb to say, speak, utter, tell, mention, relate, affirm, declare, state, assert
 do, dare, dedi, datum verb to give, hand over, deliver, give up, pay, surrender, grant
 duo,-ae,-o adjective two
 ego, mei, mihi, me, me pronoun I, me
@@ -37,8 +32,7 @@ et conjunction and; also, too, besides, likewise, as well, even; both…and (et�
 ex, e preposition (with abl.) out of, from
 fabula,-ae(f.) noun story, fable; play
 facio,-ere,feci,factum verb to make, build, produce, compose; do, perform, make
-gravis,-e adjective heavy, weighty, ponderous, burdensome, loaded, laden,
-burdened
+gravis,-e adjective heavy, weighty, ponderous, burdensome, loaded, laden, burdened
 habeo,-ere,-ui,-itum verb to have, hold, support, carry, wear
 hic, haec, hoc pronoun this
 huc adverb to this place, hither
@@ -61,31 +55,23 @@ nec or neque conjunction and not, also not, nor; neither...nor (nec/neque...nec/
 non adverb not, by no means, not at all
 omnis,-e adjective all, every
 per preposition (with acc.) through, across, along, among
-placeo,-ere,-cui,placitussum(or
-placitum)
-verb (with dat.) to please, be pleasing, be agreeable, be acceptable,
-suit, satisfy
+placeo,-ere,-cui,placitussum(or placitum)
+verb (with dat.) to please, be pleasing, be agreeable, be acceptable, suit, satisfy
 Porcius,-i(m.) noun (proper) a Roman male name (nomen – name of a Roman gens)
 possum, posse, potui verb to be able, have power, can
-quam adverb in what manner, how greatly, how, how much; as, than; after
-than, earlier than
--que enclitic and (affixed to a word and joining it with a preceding word),
-both...and (-que...-que)
+quam adverb in what manner, how greatly, how, how much; as, than; after than, earlier than
+-que enclitic and (affixed to a word and joining it with a preceding word), both...and (-que...-que)
 qui, quae, quod pronoun who, which, that
-quisquam, quaequam, quicquam (or
-quidquam)
-pronoun any, any one
+quisquam, quaequam, quicquam (or quidquam) pronoun any, any one
 ratio,-onis(f.) noun reason, understanding; calculation, computation
 relinquo,-ere,-liqui,-lictum verb to leave behind, give up, leave, abandon
-res, rei (f.) noun thing, matter, affair, business, event, fact, circumstance,
-occurrence, case, situation
+res, rei (f.) noun thing, matter, affair, business, event, fact, circumstance, occurrence, case, situation
 Roma, Romae (f.) noun (proper) (the city of) Rome
 sed conjunction but, on the contrary, but also, but even, but in fact
 si conjunction if
 similis,-e adjective like, resembling, similar
-studeo,-ere,-ui verb (with dat.) to desire, be eager for; apply oneself to; strive after;
-to study
-—,sui,sibi,se,se pronoun himself, herself, itself, themselves
+studeo,-ere,-ui verb (with dat.) to desire, be eager for; apply oneself to; strive after; to study
+sui,sibi,se,se pronoun himself, herself, itself, themselves
 sum, esse, fui verb to be
 super preposition (with acc. and abl.) above, on top, over
 suus,-a,-um adjective of oneself, belonging to oneself, his own, her own, his, her, its, their

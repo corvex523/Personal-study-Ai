@@ -1,0 +1,354 @@
+
+Carbon and  the Molecular Diversity of Life
+Overview: Carbon Compounds and Life
+Aside from water, living organisms consist mostly of carbon-based compounds
+Carbon is unparalleled in its ability to form large, complex, and diverse molecules
+A compound containing carbon is said to be an organic compound
+
+Critically important molecules of all living things fall into four main classes
+Carbohydrates
+Lipids
+Proteins
+Nucleic acids
+The first three of these can form huge molecules called macromolecules
+
+Figure 3.1
+Concept 3.1: Carbon atoms can form diverse molecules by bonding to four other atoms
+An atom’s electron configuration determines the kinds and number of bonds the atom will form with other atoms
+This is the source of carbon’s versatility
+The Formation of Bonds with Carbon
+With four valence electrons, carbon can form four covalent bonds with a variety of atoms
+This ability makes large, complex molecules possible
+In molecules with multiple carbons, each carbon bonded to four other atoms has a tetrahedral shape
+However, when two carbon atoms are joined by a double bond, the atoms joined to the carbons are in the same plane as the carbons
+
+When a carbon atom forms four single covalent bonds, the bonds angle toward the corners of an imaginary tetrahedron
+When two carbon atoms are joined by a double bond, the atoms joined to those carbons are in the same plane as the carbons
+Figure 3.2
+
+The electron configuration of carbon gives it covalent compatibility with many different elements
+The valences of carbon and its most frequent partners (hydrogen, oxygen, and nitrogen) are the “building code” that governs the architecture of living molecules
+Figure 3.3
+
+Carbon atoms can partner with atoms other than hydrogen; for example:
+Carbon dioxide: CO2
+
+
+Urea: CO(NH2)2
+Figure 3.UN01
+Molecular Diversity Arising from Variation in Carbon Skeletons 
+Carbon chains form the skeletons of most organic molecules
+Carbon chains vary in length and shape
+Figure 3.4
+Figure 3.4a
+Figure 3.4b
+Figure 3.4c
+Figure 3.4d
+
+Hydrocarbons are organic molecules consisting of only carbon and hydrogen
+Many organic molecules, such as fats, have hydrocarbon components
+Hydrocarbons can undergo reactions that release a large amount of energy
+The Chemical Groups Most Important to Life
+Functional groups are the components of organic molecules that are most commonly involved in chemical reactions
+The number and arrangement of functional groups give each molecule its unique properties
+
+The seven functional groups that are most important in the chemistry of life:
+Hydroxyl group
+Carbonyl group
+Carboxyl group
+Amino group
+Sulfhydryl group
+Phosphate group
+Methyl group
+Figure 3.5
+Figure 3.5a
+Figure 3.5aa
+Figure 3.5ab
+Figure 3.5ac
+Figure 3.5ad
+Figure 3.5b
+Figure 3.5ba
+Figure 3.5bb
+Figure 3.5bc
+ATP: An Important Source of Energy for Cellular Processes
+One organic phosphate molecule, adenosine triphosphate (ATP), is the primary energy-transferring molecule in the cell 
+ATP consists of an organic molecule called adenosine attached to a string of three phosphate groups
+Figure 3.UN02
+Figure 3.UN03
+Concept 3.2: Macromolecules are polymers, built from monomers
+A polymer is a long molecule consisting of many similar building blocks 
+These small building-block molecules are called monomers
+Some molecules that serve as monomers also have other functions of their own
+The Synthesis and Breakdown of Polymers
+Cells make and break down polymers by the same  process
+A dehydration reaction occurs when two monomers bond together through the loss of a water molecule
+Polymers are disassembled to monomers by hydrolysis, a reaction that is essentially the reverse of the dehydration reaction
+These processes are facilitated by enzymes, which speed up chemical reactions
+Figure 3.6
+Figure 3.6a
+Figure 3.6b
+The Diversity of Polymers
+Each cell has thousands of different macromolecules 
+Macromolecules vary among cells of an organism, vary more within a species, and vary even more between species
+An immense variety of polymers can be built from a small set of monomers
+Concept 3.3: Carbohydrates serve as fuel and building material
+Carbohydrates include sugars and the polymers of sugars
+The simplest carbohydrates are monosaccharides, or simple sugars
+Carbohydrate macromolecules are polysaccharides, polymers composed of many sugar building blocks 
+Sugars
+Figure 3.7
+Figure 3.7a
+Figure 3.7b
+Figure 3.7c
+
+Though often drawn as linear skeletons, in aqueous solutions many sugars form rings
+Monosaccharides serve as a major fuel for cells and as raw material for building molecules 
+Figure 3.8
+
+A disaccharide is formed when a dehydration reaction joins two monosaccharides 
+This covalent bond is called a glycosidic linkage
+Figure 3.9-1
+Figure 3.9-2
+Polysaccharides
+Polysaccharides, the polymers of sugars, have storage and structural roles
+The structure and function of a polysaccharide are determined by its sugar monomers and the positions of glycosidic linkages
+Storage Polysaccharides
+Starch, a storage polysaccharide of plants, consists entirely of glucose monomers
+Plants store surplus starch as granules
+The simplest form of starch is amylose
+
+Glycogen is a storage polysaccharide in animals
+Humans and other vertebrates store glycogen mainly in liver and muscle cells
+Figure 3.10
+Figure 3.10a
+Figure 3.10aa
+Figure 3.10b
+Figure 3.10ba
+Figure 3.10c
+Figure 3.10ca
+Structural Polysaccharides
+The polysaccharide cellulose is a major component of the tough wall of plant cells
+Like starch and glycogen, cellulose is a polymer of glucose, but the glycosidic linkages in cellulose differ
+The difference is based on two ring forms for glucose
+
+Figure 3.11
+Figure 3.11a
+
+In starch, the glucose monomers are arranged in the alpha () conformation
+Starch (and glycogen) are largely helical
+In cellulose, the monomers are arranged in the beta () conformation
+Cellulose molecules are relatively straight	
+
+Figure 3.11b
+Figure 3.11c
+
+In straight structures (cellulose), H atoms on one strand can form hydrogen bonds with OH groups on other strands
+Parallel cellulose molecules held together this way are grouped into microfibrils, which form strong building materials for plants
+
+
+Enzymes that digest starch by hydrolyzing  linkages can’t hydrolyze  linkages in cellulose
+Cellulose in human food passes through the digestive tract as insoluble fiber
+Some microbes use enzymes to digest cellulose
+Many herbivores, from cows to termites, have symbiotic relationships with these microbes
+
+Chitin, another structural polysaccharide, is found in the exoskeleton of arthropods
+Chitin also provides structural support for the cell walls of many fungi
+Concept 3.4: Lipids are a diverse group of hydrophobic molecules
+Lipids do not form true polymers
+The unifying feature of lipids is having little or no affinity for water
+Lipids are hydrophobic because they consist mostly  of hydrocarbons, which form nonpolar covalent bonds
+The most biologically important lipids are fats, phospholipids, and steroids
+Fats
+Fats are constructed from two types of smaller molecules: glycerol and fatty acids
+Glycerol is a three-carbon alcohol with a hydroxyl group attached to each carbon
+A fatty acid consists of a carboxyl group attached to a long carbon skeleton
+Figure 3.12
+Figure 3.12a 
+
+Fats separate from water because water molecules hydrogen-bond to each other and exclude the fats
+In a fat, three fatty acids are joined to glycerol by an ester linkage, creating a triacylglycerol, or triglyceride
+
+Figure 3.12b
+
+Fatty acids vary in length (number of carbons) and in the number and locations of double bonds
+Saturated fatty acids have the maximum number of hydrogen atoms possible and no double bonds
+Unsaturated fatty acids have one or more double bonds
+Figure 3.13
+Figure 3.13a
+Figure 3.13aa
+Figure 3.13b
+Figure 3.13ba
+
+Fats made from saturated fatty acids are called saturated fats and are solid at room temperature
+Most animal fats are saturated
+Fats made from unsaturated fatty acids, called unsaturated fats or oils, are liquid at room temperature
+Plant fats and fish fats are usually unsaturated
+
+The major function of fats is energy storage
+Fat is a compact way for animals to carry their energy stores with them
+
+Phospholipids
+In a phospholipid, two fatty acids and a phosphate group are attached to glycerol 
+The two fatty acid tails are hydrophobic, but the phosphate group and its attachments form a hydrophilic head
+Phospholipids are major constituents of cell membranes
+Figure 3.14
+Figure 3.14ab
+
+When phospholipids are added to water, they self-assemble into a bilayer, with the hydrophobic tails pointing toward the interior
+This feature of phospholipids results in the bilayer arrangement found in cell membranes
+Figure 3.14cd
+Steroids
+Steroids are lipids characterized by a carbon skeleton consisting of four fused rings
+Cholesterol, an important steroid, is a component in animal cell membranes
+Although cholesterol is essential in animals, high levels in the blood may contribute to cardiovascular disease
+Figure 3.15
+Concept 3.5: Proteins include a diversity of structures, resulting in a wide range of functions
+Proteins account for more than 50% of the dry mass of most cells
+Protein functions include defense, storage, transport, cellular communication, movement, and structural support
+
+Figure 3.16
+Figure 3.16a
+Figure 3.16aa
+Figure 3.16ab
+Figure 3.16ac
+Figure 3.16aca
+Figure 3.16ad
+Figure 3.16b
+Figure 3.16ba
+Figure 3.16bb
+Figure 3.16bc
+Figure 3.16bca
+Figure 3.16bd
+Figure 3.16bda
+
+Life would not be possible without enzymes
+Enzymatic proteins act as catalysts, to speed up chemical reactions without being consumed by the reaction
+
+Polypeptides are unbranched polymers built from the same set of 20 amino acids
+A protein is a biologically functional molecule that consists of one or more polypeptides
+Amino Acids
+Amino acids are organic molecules with carboxyl and amino groups
+Amino acids differ in their properties due to differing side chains, called R groups
+Figure 3.UN04
+Figure 3.17
+Figure 3.17a
+Figure 3.17b
+Figure 3.17c
+Polypeptides
+Amino acids are linked by peptide bonds
+A polypeptide is a polymer of amino acids
+Polypeptides range in length from a few to more than a thousand monomers 
+Each polypeptide has a unique linear sequence of amino acids, with a carboxyl end (C-terminus) and an amino end (N-terminus)
+Figure 3.18
+Figure 3.18a
+Figure 3.18b
+Protein Structure and Function
+A functional protein consists of one or more polypeptides precisely twisted, folded, and coiled into a unique shape
+Figure 3.19
+Figure 3.19a
+Figure 3.19b
+
+The sequence of amino acids, determined genetically, leads to a protein’s three-dimensional structure
+A protein’s structure determines its function
+
+Figure 3.20
+Four Levels of Protein Structure
+Proteins are very diverse, but share three superimposed levels of structure called primary, secondary, and tertiary structure
+A fourth level, quaternary structure, arises when a protein consists of more than one polypeptide chain
+
+The primary structure of a protein is its unique sequence of amino acids
+Secondary structure, found in most proteins, consists of coils and folds in the polypeptide chain
+Tertiary structure is determined by interactions among various side chains (R groups)
+Quaternary structure results from interactions between multiple polypeptide chains
+
+Figure 3.21a
+Figure 3.21aa
+Figure 3.21b
+Figure 3.21ba
+Figure 3.21bb
+Figure 3.21bc
+Figure 3.21c
+Figure 3.21d
+Figure 3.21e
+Figure 3.21f
+Sickle-Cell Disease: A Change in Primary Structure
+Primary structure is the sequence of amino acids on the polypeptide chain
+A slight change in primary structure can affect a protein’s structure and ability to function 
+Sickle-cell disease, an inherited blood disorder, results from a single amino acid substitution in the protein hemoglobin
+Figure 3.22
+Figure 3.22a
+Figure 3.22aa
+Figure 3.22b
+Figure 3.22ba
+What Determines Protein Structure?
+In addition to primary structure, physical and chemical conditions can affect structure
+Alterations in pH, salt concentration, temperature, or other environmental factors can cause a protein to unravel
+This loss of a protein’s native structure is called denaturation
+A denatured protein is biologically inactive
+Figure 3.23-1
+Figure 3.23-2
+Figure 3.23-3
+Protein Folding in the Cell
+It is hard to predict a protein’s structure from its primary structure
+Most proteins probably go through several intermediate structures on their way to their final, stable shape
+Scientists use X-ray crystallography to determine  3-D protein structure based on diffractions of an  X-ray beam by atoms of the crystalized molecule
+Figure 3.24
+Figure 3.24a
+Figure 3.24b
+Concept 3.6: Nucleic acids store, transmit, and help express hereditary information
+The amino acid sequence of a polypeptide is programmed by a unit of inheritance called a gene
+Genes are made of DNA, a nucleic acid made of monomers called nucleotides
+The Roles of Nucleic Acids
+There are two types of nucleic acids
+Deoxyribonucleic acid (DNA)
+Ribonucleic acid (RNA)
+DNA provides directions for its own replication
+DNA directs synthesis of messenger RNA (mRNA) and, through mRNA, controls protein synthesis
+Figure 3.25-1
+Figure 3.25-2
+Figure 3.25-3
+The Components of Nucleic Acids
+Nucleic acids are polymers called polynucleotides
+Each polynucleotide is made of monomers called nucleotides
+Each nucleotide consists of a nitrogenous base, a pentose sugar, and one or more phosphate groups
+The portion of a nucleotide without the phosphate group is called a nucleoside
+Figure 3.26
+Figure 3.26a
+Figure 3.26b
+Figure 3.26c
+Figure 3.26d
+
+Each nitrogenous base has one or two rings that include nitrogen atoms
+The nitrogenous bases in nucleic acids are called cytosine (C), thymine (T), uracil (U), adenine (A), and guanine (G)
+Thymine is found only in DNA, and uracil only in RNA; the rest are found in both DNA and RNA
+
+The sugar in DNA is deoxyribose; in RNA it is ribose
+A prime () is used to identify the carbon atoms in the ribose, such as the 2 carbon or 5 carbon
+A nucleoside with at least one phosphate attached is a nucleotide
+Nucleotide Polymers
+Adjacent nucleotides are joined by covalent bonds that form between the —OH group on the 3 carbon of one nucleotide and the phosphate on the 5 carbon of the next
+These links create a backbone of sugar-phosphate units with nitrogenous bases as appendages
+The sequence of bases along a DNA or mRNA polymer is unique for each gene
+The Structures of DNA and RNA Molecules
+RNA molecules usually exist as single polypeptide chains 
+DNA molecules have two polynucleotides spiraling around an imaginary axis, forming a double helix
+In the DNA double helix, the two backbones run in opposite 5→ 3 directions from each other, an arrangement referred to as antiparallel
+One DNA molecule includes many genes
+
+The nitrogenous bases in DNA pair up and form hydrogen bonds: adenine (A) always with thymine (T), and guanine (G) always with cytosine (C)
+This is called complementary base pairing
+Complementary pairing can also occur between  two RNA molecules or between parts of the same molecule
+In RNA, thymine is replaced by uracil (U), so A and  U pair
+
+Figure 3.27
+Figure 3.27a
+Figure 3.27b
+DNA and Proteins as Tape Measures of Evolution
+The linear sequences of nucleotides in DNA molecules are passed from parents to offspring
+Two closely related species are more similar in DNA than are more distantly related species
+Molecular biology can be used to assess evolutionary kinship
+Figure 3.UN05
+Figure 3.UN06
+Figure 3.UN06a
+Figure 3.UN06b
+Figure 3.UN07

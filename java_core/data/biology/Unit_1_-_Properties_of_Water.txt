@@ -1,0 +1,106 @@
+Unit 1
+
+
+
+
+Properties of Water
+Overview: The Molecule That Supports All of Life
+Water is the biological medium on Earth.
+All living organisms require water more than any other substance.
+Most cells are surrounded by water, and cells themselves are about 70–95% water.
+The abundance of water is the main reason the Earth is habitable.
+The polarity of water molecules results in hydrogen bonding
+opposite ends have opposite charges.
+hydrogen bonds
+Four of water’s properties that facilitate an environment for life are:
+Cohesive behavior
+Ability to moderate temperature: Stable
+Expansion upon freezing:  Less dense Ice floats
+Versatility as a solvent.
+
+Water Properties 
+
+Cohesion: hydrogen bonds hold water molecules together
+Plants: transport of water against gravity
+Adhesion: attraction between different substances, ie water and plant cell walls
+Surface tension: hard it is to break the surface of a liquid; related to cohesion
+
+
+
+Moderation of Temperature
+Water absorbs heat from warmer air and releases stored heat to cooler air.  STABLE.
+Water can absorb or release a large amount of heat with only a slight change in its own temperature  =  high specific heat.
+Kinetic energy: energy of motion.
+Heat: total amount of kinetic energy due to molecular motion.
+Temperature: heat intensity from average kinetic energy
+
+calorie: heat required to raise the temperature of 1 g of water by 1°C.
+“Calories” on food packages 
+kilocalories (kcal), 1 kcal = 1,000 cal.
+joule (J) energy unit; 1 cal = 4.184 J
+.
+
+specific heat : amount of heat that must be absorbed or lost for 1 g of that substance to change its temperature by 1ºC
+water = 1 cal/g/ºC; high specific heat = STABLE 	
+high specific heat  hydrogen bonds
+Heat is absorbed  hydrogen bonds break.
+Heat is released  hydrogen bonds form.
+The high specific heat of water minimizes temperature fluctuations to within limits that permit life.
+
+Evaporative Cooling
+Evaporation: liquid to gas.
+Heat of vaporization: heat a liquid must absorb for 1 g to be converted to gas.
+Evaporative cooling: as a liquid evaporates, its remaining surface cools. 
+helps stabilize temperatures in organisms and bodies of water
+Insulation of Bodies of Water by Floating Ice
+Ice floats: hydrogen bonds in ice are more “ordered,” less dense.
+greatest density at 4°C.
+If ice sank, all bodies of water would eventually freeze solid life impossible
+
+The Solvent of Life
+solution: homogeneous mixture of substances.
+Solvent: dissolving agent &  Solute: dissolved substance
+aqueous solution: water is the solvent; polarity & hydrogen bonds
+hydration shell: ionic compound is dissolved in water, each ion is surrounded by a sphere of water molecules
+Water can also dissolve nonionic polar molecules and large ionic, polar molecules, proteins
+Colloid: stable suspension of fine particles in a liquid.
+
+Solute Concentration in Aqueous Solutions
+biochemical reactions occur in water.
+collisions of molecules 
+concentration of solutes in aqueous solution
+Molecular mass: sum of all masses of all atoms in a molecule.
+Avogadro’s number : 6.02 x 1023 daltons = 1 g
+1 mole (mol) = 6.02 x 1023
+Molarity (M): moles of solute /L of solution
+Acids and Bases and pH
+pH = –log [H+]
+Acidic < 7, basic (alkaline) < 7, or neutral=7
+H2O + H2O  H3O+  + OH-
+Acid: increases H+; Base: reduces H+
+Adding certain solutes, called acids and bases, modifies the concentrations of H+ and OH–  and changes pH
+drastically affect the chemistry of a cell
+biological fluids have pH values: 6 to 8
+Buffer: mixture of a weak acid and a weak base that minimize pH changes when an acid or base is added to a solution 
+
+
+Threats to Water Quality on Earth
+Acid precipitation: to rain, snow, or fog with a pH lower than 5.6; Acid rain: pH < 5.6
+caused by mixing of different pollutants with water in the air 
+fall at some distance from the source of pollutants.
+damage life in lakes and streams.
+acid precipitation on soil chemistry are contributing to forest decline
+
+
+Human activities, burning fossil fuels,  threaten water quality.
+fossil fuel combustion releases CO2 
+greenhouse effect
+Acidification of the oceans: decrease in the ability of corals to form calcified reefs
+
+
+You should now be able to:
+List and explain the four properties of water that emerge as a result of its ability to form hydrogen bonds.
+Distinguish between the following sets of terms: hydrophobic and hydrophilic substances; a solute, a solvent, and a solution.
+Define acid, base, and pH.
+Explain how buffers work.
+

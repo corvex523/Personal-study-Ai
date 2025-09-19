@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App</title>
+  <style>
+    body {
+      font-family: "Times New Roman", serif;
+      background-color: #000;
+      color: #aaa;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 { text-align: center; color: #fff; }
+    .quiz-container {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #111;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #333;
+    }
+    .question { margin-bottom: 15px; }
+    input[type="text"] {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: none;
+      background-color: #222;
+      color: #fff;
+    }
+    button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 20px;
+      font-size: 16px;
+      background-color: #444;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover { background-color: #666; }
+    .result {
+      text-align: center;
+      margin-top: 20px;
+      font-weight: bold;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiz</h1>
+  <div class="quiz-container">
+    <label for="docTitle">Enter document title:</label>
+    <input type="text" id="docTitle" placeholder="e.g. APBiologyChemistryOfLife">
+    <button onclick="loadQuiz()">Load Quiz</button>
+    <button onclick="submitQuiz()">Submit</button>
+    <div id="quiz"></div>
+    <div class="result" id="result"></div>
+    <button onclick="loadDocs()">Load Docs</button>
+  </div>
+
+  <script type="text/javascript">
+    let docs = [];
+    let questions = [];
+
+    function loadDocs() {
+      console.log("getting docs");
+      docs = JSON.parse(bridge.loadDocs());
+      console.log("docs recienved");
+    }
+
+    function loadQuiz() {
+      console.log("getting quiz");
+      const title = normalizeTitle(document.getElementById("docTitle").value);
+      console.log("docs " + docs);
+      const quizDiv = document.getElementById("quiz");
+
+      const doc = docs.find(d => normalizeTitle(d.getTitle()) === title);
+      if (!doc) {
+        quizDiv.innerHTML = `<p>No document found with title: ${title}</p>`;
+        return;
+      }
+
+      questions = JSON.parse(doc.getQuestionsAsJson());
+      console.log(questions);
+
+      questions.forEach((q, i) => {
+	const div = document.createElement("div");
+        div.className = "question";
+        div.innerHTML = `
+          <label>${i + 1}. ${q.text}</label>
+          <input type="text" id="answer-${i}" placeholder="Answer">
+        `;
+        quizDiv.appendChild(div);
+      });
+      console.log("questions recieved");
+    }
+
+    function normalizeTitle(t) {
+      return t.toLowerCase().replace(/\s+/g, '');
+    }
+
+    function submitQuiz() {
+      if (questions.length === 0) return;
+      let correct = 0;
+      for (let i = 0; i < questions.length; i++) {
+        const userAnswer = document.getElementById(`answer-${i}`).value.trim().toLowerCase();
+        if (userAnswer === questions[i].answer.toLowerCase()) {
+          correct++;
+        }
+      }
+      const score = (correct / questions.length) * 100;
+      document.getElementById("result").innerText = `Score: ${score.toFixed(1)}% (${correct}/${questions.length})`;
+    }
+  </script>
+</body>
+</html>

@@ -1,3 +1,4 @@
+package com.myassistant;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -11,13 +12,17 @@ public class Sentence {
         this.position = position;
     }
 
-    public void setTfidfVector(ArrayList<Double> vector) {
-        this.tfidfVector = vector;
+    public Sentence(String text) {
+        this.text = text;
+    }
+
+    public void setTfidfVector(ArrayList<Double> tfidfVector) {
+        this.tfidfVector = tfidfVector;
     }
 
     public HashMap<String, Double> getTfidfMap() {
 	HashMap<String, Double> tfidfMap = new HashMap<>();
-	String[] words = text.split("[^a-z0-9']+");
+	String[] words = text.toLowerCase().split("[^a-z0-9']+");
         for (int i = 0; i < words.length && i < tfidfVector.size(); i++) {
             String word = words[i].toLowerCase();
             if (!word.isEmpty()) {

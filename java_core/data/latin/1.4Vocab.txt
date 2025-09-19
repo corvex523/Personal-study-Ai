@@ -1,0 +1,74 @@
+addo, -ere, -didi, -ditum to put to, place upon, lay on, join, attach verb
+adsurgo (ass-), -ere, -surrexi, -surrectum to rise up, rise, stand up verb
+anima, -ae (f.) air, a current of air, breeze, wind; breath, life, soul noun
+animal, -is (n.) animal, living thing noun
+aperio, -ire, -ui, -tum to uncover, open, disclose; explain, recount; reveal; establish verb
+arbor (arbos), -oris (f.) tree noun
+ascendo (ads-), -ere, -cendi, -censum to climb, go/climb up; mount, scale; embark; rise, ascend, move upward verb
+aspicio (ads-), -ere, -exi, -ectum to look at, look upon, behold, look verb
+audacia, -ae (f.) boldness, courage, confidence; recklessness noun
+audax, -acis bold; courageous; reckless, rash; presumptuous adjective
+beatus, -a, -um happy, prosperous, blessed, fortunate adjective
+casus, -us (m.) falling, falling down, fall; misfortune, mishap, calamity noun
+certamen, certaminis (n.) contest, competition; battle, combat, struggle; rivalry, dispute noun
+certus, -a, -um determined, resolved, fixed, settled, purposed, certain adjective
+ceterus, -a, -um the other, remainder, rest adjective
+classis, -is (f.) class, great division; (fig.) army, a fleet noun
+cognosco, -ere, cognovi, cognitum to become acquainted with, acquire knowledge of, learn, understand, recognize verb
+condo, -ere, -didi, -ditum to put together, found, establish, build, settle verb
+copia, -ae (f.) abundance, ample supply, plenty; (in plural) troops, forces noun
+cursus, -us (m.) running, course, way, march, passage, voyage, journey noun
+epistula, -ae (f.) written communication, letter noun
+eripio, -ere, -ipui, -eptum to tear out, snatch away, pluck, tear, take away verb
+flamma, -ae (f.) blazing fire, blaze, flame noun
+forma, -ae (f.) form, contour, figure, shape, appearance, looks noun
+fortis, -e strong, firm, stout, courageous, brave, valiant, bold, fearless adjective
+frango, -ere, fregi, fractum to break (in pieces), dash to pieces, shiver, shatter, fracture verb
+fuga, -ae (f.) fleeing, flight, running away noun
+gladiator, -oris (m.) gladiator noun
+gladius, -i (m.) sword noun
+gloria, -ae (f.) glory, fame, renown, praise, honor noun
+gratia, -ae (f.) favor, regard, liking, love, friendship; charm, beauty, loveliness noun
+historia, -ae (f.) narrative of past events, history noun
+incendium, -i (n.) fire; fiery heat; fiery passion, love, hostility; incendiary missile; (pl.) flames noun
+interim meanwhile, in the meantime adverb
+iuvo, -are, iuvi, iutum to help, aid, assist, further, serve, support, benefit, delight, please verb
+lego, -ere, legi, lectum to bring together, gather, choose; to read verb
+limen, -inis (n.) threshold, sill noun
+magister, -i (m.) teacher, tutor, master, expert, chief; pilot of a ship noun
+malo, malle, malui to prefer, incline toward, wish rather verb
+maneo, -ere, -nsi, -nsum to stay, remain, abide, wait for, expect verb
+mora, -ae (f.) delay, procrastination noun
+mox soon, directly, presently, then adverb
+munus, -eris (n.) service, office, duty; gift, present noun
+navis, -is (f.) ship noun
+nondum not yet adverb
+nosco, -ere, novi, notum to get knowledge of, become acquainted with, come to know, learn, discern verb
+numerus, -i (m.) number noun
+operio, -ire, -ui, -ertum to cover, cover over verb
+opus, -eris (n.) work, labor, toil; (with abl. or inf.) need (of) noun
+posco, -ere, poposci to ask urgently, beg, demand, request, desire verb
+procul in the distance, at a distance, away, apart, far, far off adverb
+propero, -are, -avi, -atum to make haste, hasten, be quick, be in haste, go quickly verb
+quamvis as you will, as much as you will, however much, as much as possible, very much, extremely adverb
+quidem assuredly, certainly, in fact, indeed adverb
+quo to where, in where, where; for which reason, to what end, why, in order that, so that adverb
+refero, referre, rettuli, relatum to bear back, bring back, drive back, carry back; reply verb
+respondeo, -ere, -spondi, -sponsum to answer, reply, respond, make answer verb
+salus, -utis (f.) soundness, health, good health, vigor, safety noun
+sedes, -is (f.) seat, bench, chair, throne; place, spot; (pl.) dwelling-place, palace noun
+sinus, -us (m.) bent surface, curve, fold, hollow, coil; lap; bay, gulf noun
+sol, solis (m.) sun noun
+solvo, -ere, solvi, solutum to loosen, unbind, unfasten, untie, release verb
+sordidus, -a, -um dirty, unclean, foul, filthy; vulgar, low, paltry; vile adjective
+statim straightaway, at once, immediately, instantly adverb
+tabula, -ae (f.) writing tablet (wax covered board); (pl.) records; document, deed, will noun
+tectum, -i (n.) building, shelter, house, dwelling, roof noun
+tollo, -ere, sustuli, sublatum to lift, take up, raise, elevate, exalt verb
+trado, -ere, -didi, -ditum to give up, hand over, deliver, surrender verb
+unde from which place, from where, whence adverb
+utor, uti, usus sum (with abl.) to use, make use of, employ, profit by, take advantage of, enjoy, serve oneself with verb
+velut or veluti even as, just as, like as, like adverb
+ventus, -i (m.) wind noun
+vero in truth, in fact, certainly, truly, to be sure, surely, assuredly adverb
+verto (vorto), -ere, -i, versum to turn, turn up, turn back, direct verb

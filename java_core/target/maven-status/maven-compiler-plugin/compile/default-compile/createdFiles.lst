@@ -1,3 +1,10 @@
+com/myassistant/WebSite$1.class
 com/myassistant/Document.class
+com/myassistant/WebSite$StaticBridge.class
+com/myassistant/Question.class
+com/myassistant/DocumentIndex.class
 com/myassistant/App.class
 com/myassistant/FileLoader.class
+com/myassistant/Sentence.class
+com/myassistant/InvertedIndex.class
+com/myassistant/WebSite.class

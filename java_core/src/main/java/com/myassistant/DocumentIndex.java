@@ -1,3 +1,4 @@
+package com.myassistant;
 import java.util.ArrayList;
 
 public class DocumentIndex {
