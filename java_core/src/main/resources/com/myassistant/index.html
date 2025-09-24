@@ -67,10 +67,14 @@
     let docs = [];
     let questions = [];
 
-    function loadDocs() {
-      console.log("getting docs");
+    window.loadDocs = function() {
+      javaConsole.log("getting docs");
+      if (typeof bridge === "undefined") {
+        javaConsole.log("bridge is undefined!");
+        return;
+    }
       docs = JSON.parse(bridge.loadDocs());
-      console.log("docs recienved");
+      console.log("docs received");
     }
 
     function loadQuiz() {
@@ -79,13 +83,13 @@
       console.log("docs " + docs);
       const quizDiv = document.getElementById("quiz");
 
-      const doc = docs.find(d => normalizeTitle(d.getTitle()) === title);
+      const doc = docs.find(d => normalizeTitle(d.title) === title);
       if (!doc) {
         quizDiv.innerHTML = `<p>No document found with title: ${title}</p>`;
         return;
       }
 
-      questions = JSON.parse(doc.getQuestionsAsJson());
+      questions = JSON.parse(doc.questionsAsJson);
       console.log(questions);
 
       questions.forEach((q, i) => {

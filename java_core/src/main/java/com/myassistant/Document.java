@@ -159,7 +159,7 @@ public class Document {
         try {
             ArrayList<Question> temp = getQuestions(summarize());
             System.out.println(temp);
-            return mapper.writeValueAsString(temp.toString());
+            return mapper.writeValueAsString(temp);
         } catch (JsonProcessingException e) {
             System.out.println(e);
             return null;

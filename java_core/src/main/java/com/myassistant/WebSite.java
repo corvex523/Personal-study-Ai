@@ -19,42 +19,38 @@ import netscape.javascript.JSObject;
 public class WebSite extends Application {
     @Override
     public void start(Stage stage) {
+        System.out.println("1");
         WebView webView = new WebView();
+        System.out.println("2");
         WebEngine engine = webView.getEngine();
-        
+        System.out.println("3");
+
 
         engine.load( getClass().getResource("/com/myassistant/index.html").toExternalForm() );
+        System.out.println("4");
         engine.getLoadWorker().stateProperty().addListener((obs, oldState, newState) -> {
-        if (newState == Worker.State.SUCCEEDED) {
-            JSObject window = (JSObject) engine.executeScript("window");
-            if (window != null) {
-                window.setMember("javaConsole", new Object() {
-                    public void log(String msg) {
-                        System.out.println(msg);
-                    }
-                });
-
-                engine.executeScript("""
-                    console.log = function(msg) { javaConsole.log(msg); };
-                """);
-            } else {
-                System.err.println("window object is null after load");
-            }
-        }
-});
-
-        engine.executeScript("console.log = function(msg) { javaConsole.log(msg); };");
-
-        engine.getLoadWorker().stateProperty().addListener((obs, oldState, newState) -> {
+            System.out.println("5");
             if (newState == Worker.State.SUCCEEDED) {
+                System.out.println("6");
                 JSObject window = (JSObject) engine.executeScript("window");
+                System.out.println("7");
+                window.setMember("javaConsole", new Object() {
+                    public void log(String msg) { System.out.println(msg); }
+                });
+                System.out.println("8");
+                engine.executeScript("console.log = function(msg) { javaConsole.log(msg); };");
+                System.out.println("9");
                 window.setMember("bridge", new StaticBridge());
+                System.out.println("10");
             }
         });
 
         Scene scene = new Scene(webView, 800, 600);
+        System.out.println("11");
         stage.setScene(scene);
+        System.out.println("12");
         stage.show();
+        System.out.println("13");
     }
 
     public static class StaticBridge {
@@ -65,7 +61,7 @@ public class WebSite extends Application {
                 ArrayList<Document> temp = WebSite.loadDocs();
                 System.out.println("Values loaded: " + temp.size());
                 System.out.println("Result: " + temp.toString());
-                return mapper.writeValueAsString(temp.toString());
+                return mapper.writeValueAsString(temp);
             } catch (JsonProcessingException e) {
                 System.out.println(e);
                 return null;
@@ -78,6 +74,7 @@ public class WebSite extends Application {
     }
 
     public static ArrayList<Document> loadDocs() {
+        System.out.println("hello world");
 		try {
 			ArrayList<Document> docs = new ArrayList<>();
 			long startTime = System.currentTimeMillis();
